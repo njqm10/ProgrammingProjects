@@ -1,1 +1,3 @@
 # ProgrammingProjects
+
+In this repository, I have published some of my programming projects. For some I have uploaded a .ipynb file and a .py file. If you want to run .py files in your computer you might run into some lirbary issues. After installing the correct dependencies there should be no issue. The .ipynb files are jupyter notebooks designed to help you understand more in-depth the projects. You can run the three projects on google colab. IMPORTANT: In the case of the DeepFaceGAN Project, do not run all the cells at the same time. Read the report and run the necessary cells. ACTIVATE GOOGLE COLAB GPU.
